@@ -94,6 +94,6 @@ Once the script starts, it will provide two URLs:
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 *Crafted with 💜 by [Agnel](https://agneldev.netlify.app/)*
