@@ -10,7 +10,7 @@ powershell -NoProfile -ExecutionPolicy Bypass -Command ^
     "Write-Host '     \___/ \_,_|\__|_|_|_|  \_, |' -ForegroundColor Cyan; " ^
     "Write-Host '                            |__/ ' -ForegroundColor Cyan; " ^
     "Write-Host ' ----------------------------------------' -ForegroundColor Gray; " ^
-    "Write-Host '      AUTIFY MUSIC PROTOCOL v2.5.0     ' -ForegroundColor Gray; " ^
+    "Write-Host '      AUTIFY MUSIC PROTOCOL v1.0.0     ' -ForegroundColor Gray; " ^
     "Write-Host ' ----------------------------------------' -ForegroundColor Gray; " ^
     "$p = Get-NetTCPConnection -LocalPort 3000 -State Listen -ErrorAction SilentlyContinue; " ^
     "if($p){ Write-Host ' [!] Removing old session on 3000...' -ForegroundColor Yellow; Stop-Process -Id $p.OwningProcess -Force }; " ^

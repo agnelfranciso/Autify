@@ -1,6 +1,6 @@
 # 🎵 Autify Music Protocol
 
-[![Version](https://img.shields.io/badge/version-2.5.0-purple.svg?style=for-the-badge)](https://github.com/)
+[![Version](https://img.shields.io/badge/version-1.0.0-purple.svg?style=for-the-badge)](https://github.com/)
 [![Aesthetics](https://img.shields.io/badge/design-premium-gold.svg?style=for-the-badge)](https://github.com/)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg?style=for-the-badge)](https://github.com/)
 

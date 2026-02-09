@@ -368,7 +368,7 @@ export default function Home() {
               }}
             >
               <div style={{ display: "flex", flexDirection: "column", gap: "0.5rem" }}>
-                <p style={{ color: "white", fontWeight: 800, fontSize: "1.1rem" }}>Autify v2.5.0</p>
+                <p style={{ color: "white", fontWeight: 800, fontSize: "1.1rem" }}>Autify v1.0.0</p>
                 <div style={{ display: "flex", alignItems: "center", gap: "0.5rem", fontSize: "0.95rem", color: "hsl(var(--muted-foreground))" }}>
                   <span>Crafted by</span>
                   <a href="https://agneldev.netlify.app/" target="_blank" rel="noopener noreferrer" style={{ color: "white", fontWeight: 800, textDecoration: "none", borderBottom: "2px solid hsl(var(--primary))" }}>Agnel</a>

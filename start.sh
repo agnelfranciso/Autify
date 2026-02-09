@@ -15,7 +15,7 @@ echo "     \___/ \_,_|\__|_|_|_|  \_, |"
 echo "                            |__/ "
 echo -e "\033[0m"
 echo "----------------------------------------"
-echo "       AUTIFY MUSIC PROTOCOL v2.5.0     "
+echo "       AUTIFY MUSIC PROTOCOL v1.0.0     "
 echo "----------------------------------------"
 
 # Smart IP Detection: Specifically find the IP for Wi-Fi and ignore virtual host-only adapters (192.168.56.x)
